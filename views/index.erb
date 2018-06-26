@@ -17,3 +17,10 @@
         <p>This is the info page: here's some information about me!</p>
     </body>
 </html>
+get '/' do
+      erb :index
+    end
+ 
+    get "/info" do
+      erb :info
+    end
