@@ -1,4 +1,4 @@
-# Sinatra Basic Views Lab
+ # Sinatra Basic Views Lab
 
 ## Objectives
 
